@@ -1,4 +1,4 @@
-## Hi! My name is Saulo Dias
+## Hi! My name is Saulo aka Vordock, and i love to make Games!
 
 ###
 
