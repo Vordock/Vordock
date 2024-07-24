@@ -1,11 +1,11 @@
-### Hi! My names is Saulo dias
+### Hi! My name is Saulo Dias
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vordock&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 
-</div>
+</div> -->
 
 ## Main Tools:
 
@@ -26,13 +26,13 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
-### Social
+### Social:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/saulo-dias-16ba4027a)
 
 ###
 
 
-### My Games
+### Play some of my Games in:
 [![Unity](https://img.shields.io/badge/Game%20Jolt-%2338B2AC.svg?style=for-the-badge)](https://gamejolt.com/@Vordock/games)
 
 
