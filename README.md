@@ -29,3 +29,7 @@
 ### Play some of my Games in:
 <a href="https://gamejolt.com/@Vordock/games" target="_blank"><img src="https://img.shields.io/badge/Game%20Jolt-%2338B2AC.svg?style=for-the-badge" /></a>
 
+  <p align="center"><br> 
+    Take a look more times, i like your visits!! :wink:<br>
+    <img src="https://profile-counter.glitch.me/vordock/count.svg" />
+  </p>
